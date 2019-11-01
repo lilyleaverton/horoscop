@@ -1,0 +1,44 @@
+
+button {
+    font-family: Snell Roundhand, cursive;
+    font-size: 29px;
+    color: white ;
+    border-radius:5px ;
+    margin: 5px ;
+    border: white ;
+    background: transparent ;
+}
+
+.button.hover {
+    background-color: white ;
+    text-color: #110335 ;
+}
+
+body{
+    background-image:url("img/sky.jpg");
+    color: white;
+    font-family: Snell Roundhand, cursive;
+    text-align:center;
+}
+
+h1 {
+    font-size: 70px ;
+}
+
+h3 {
+    font-size: 30px ;
+}
+
+#sign {
+    font-size: 90px ;
+}
+
+#horoscope {
+    font-size: 30px ;
+    font-family: Optima, sans-serif ;
+}
+
+#img {
+    width: 160px;
+}
+
